@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, sou Fay e gosto de desenvolver novos projetos e contribuir para o mundo da tecnologia.
 
 <!--
 **faylittle/faylittle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
