@@ -1,4 +1,4 @@
-### Olá, sou desenvolvedora 🖐
+### Olá, sou desenvolvedora, sou apaixonada em programação e tecnologia!
 
 <img align="left" height="220" src="./public/img/9dcfe97b4ec14eb950f9249b4d60bac7.png"/>
 
